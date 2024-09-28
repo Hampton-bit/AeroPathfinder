@@ -40,6 +40,7 @@ The methodology is broken down into the following modules:
    - **LinkedList:** Implements a linked list for passenger records.
    - **Queue:** Represents a queue for managing a waiting list.
    - **Graph:** Models flight connections between airports.
+![image](https://github.com/user-attachments/assets/e9c83cd9-0e70-4611-9aa6-f0971c77e7c1)
 
 3. **Dijkstra Algorithm:**
    - Implements the shortest path function to find the shortest route between airports.
